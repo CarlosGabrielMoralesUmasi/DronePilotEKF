@@ -1,0 +1,9 @@
+iROS_drone/rotors_simulator/rotors_gazebo
+/home/ucsp/bebop_ws/devel/.private/rotors_gazebo/cmake.lock /home/ucsp/bebop_ws/devel/./cmake.lock
+/home/ucsp/bebop_ws/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake /home/ucsp/bebop_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig.cmake
+/home/ucsp/bebop_ws/devel/.private/rotors_gazebo/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake /home/ucsp/bebop_ws/devel/share/rotors_gazebo/cmake/rotors_gazeboConfig-version.cmake
+/home/ucsp/bebop_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher_file /home/ucsp/bebop_ws/devel/lib/rotors_gazebo/waypoint_publisher_file
+/home/ucsp/bebop_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/fake_driver /home/ucsp/bebop_ws/devel/lib/rotors_gazebo/fake_driver
+/home/ucsp/bebop_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher /home/ucsp/bebop_ws/devel/lib/rotors_gazebo/waypoint_publisher
+/home/ucsp/bebop_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/hovering_example /home/ucsp/bebop_ws/devel/lib/rotors_gazebo/hovering_example
+/home/ucsp/bebop_ws/devel/.private/rotors_gazebo/lib/pkgconfig/rotors_gazebo.pc /home/ucsp/bebop_ws/devel/lib/pkgconfig/rotors_gazebo.pc

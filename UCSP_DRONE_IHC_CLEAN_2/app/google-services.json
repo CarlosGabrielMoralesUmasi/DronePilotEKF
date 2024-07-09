@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "115206810105",
+    "firebase_url": "https://dronucsp-default-rtdb.firebaseio.com",
+    "project_id": "dronucsp",
+    "storage_bucket": "dronucsp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115206810105:android:a466133d7878a2fefff528",
+        "android_client_info": {
+          "package_name": "com.dji.sdk.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANUnjp1IVNqqGKqjwuoLYRRut8dU41OLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
